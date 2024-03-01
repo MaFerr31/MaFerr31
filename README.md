@@ -1,3 +1,6 @@
-![MaFerr31 GitHub stats](https://github-readme-stats.vercel.app/api?username=MaFerr31&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaFerr31&layout=compact)](https://github.com/MaFerr31/github-readme-stats)
-theme-radical
+<a href="https://github.com/MaFerr31/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaFerr31&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/MaFerr31convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaFerr31&repo=convoychat" />
+</a>
