@@ -15,6 +15,7 @@
   <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="right" alt ="Mari-GIF" src="https://github.com/MaFerr31/MaFerr31/assets/124800921/6fff0f53-2a0e-4323-b9a5-14e6e65aa2a1">
 
 </div>
   
