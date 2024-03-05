@@ -1,8 +1,20 @@
+# Olá, eu sou a Mariana Ferreira!
+## Bem vindo ao meu perfil!
 
-<a href="https://github.com/MaFerr31/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=MaFerr31&theme=radical" />
-</a> 
+- 👀: Curtindo ser FrontEnd;
+- 😁: Cursando ADS;
+- 🐭: Rata de programação.
 
-<a href="https://github.com/MaFerr31/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaFerr31&layout=compact&theme=radical&langs_count=8&card_width=320" />
-</a>
+<div style="display: inline_block"><br>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MaFerr31&show_icons=true&theme=tokyonight")/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaFerr31&layout=compact&theme=tokyonight")/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+</div>
+  
