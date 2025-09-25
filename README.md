@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil!
 
 - 👀: Curtindo ser FrontEnd;
-- 😁: Cursando ADS;
+- 🏫: Graduada em Análise e Desenvolvimento de Sistemas;
 - 🐭: Rata de programação.
 
 <div style="display: inline_block"><br>
