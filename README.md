@@ -22,6 +22,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" align="center" height="30" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" align="center" height="30" width="40" />
   <img align="center" alt="Mari-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Mari-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Mari-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+
   <img align="right" alt ="Mari-GIF" src="https://github.com/MaFerr31/MaFerr31/assets/124800921/84f22edc-15ab-4bd6-ac54-8291b46fe37f">
 
 </div>
